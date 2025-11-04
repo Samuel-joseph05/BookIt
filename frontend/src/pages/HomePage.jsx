@@ -11,7 +11,7 @@ function HomePage() {
     {
       image: "Nandi-Hills.jpg",
       title: "Nandi Hills mornting trek",
-      location: "",
+      location: "Karnataka",
       description:
         "Walk through lush tea gardens and experience the art of tea making.",
       price: 2800,
